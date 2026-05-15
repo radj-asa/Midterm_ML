@@ -30,19 +30,19 @@ Each project is organized into separate folders and includes:
 ```text
 Midterm_ML/
 │
-├── transaction/
-│   ├── fraud_detection_midterm.ipynb
+├── clustering/
 │   ├── README.md
+│   ├── clustering_pipeline.ipynb
 │   └── requirements.txt
 │
 ├── regression/
-│   ├── regression_midterm.ipynb
 │   ├── README.md
+│   ├── regression-dataset.ipynb
 │   └── requirements.txt
 │
-└── clustering/
-    ├── clustering_midterm.ipynb
+└── transaction/
     ├── README.md
+    ├── fraud_detection.ipynb
     └── requirements.txt
 ```
 
